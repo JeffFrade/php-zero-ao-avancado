@@ -23,6 +23,7 @@ Para que você possa acompanhar o material é necessário ter noções básicas 
 - `SQL` (`MySQL`) (Será abordado do intermediário em diante, então não te impede de acompanhar o material no começo, porém, já procure cursos sobre o assunto e os começe (Há diversos gratuitos na internet), pois quando chegar ao intermediário já terá esse tópico resolvido).
 - `Bootstrap` (Desejável, será abordado do curso, mas de forma muito superficial, caso possua conhecimento sobre esse framework, ajudará bastante em alguns pontos do curso).
 - `Git` (Desejável).
+- `RegEx` (Desejável).
 
 ## O Que Você Vai Aprender
 ---
@@ -62,6 +63,11 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
         - `01-aritmeticos.php`
         - `02-relacionais.php`
         - `03-logicos.php`
+    - `04-condicionais`:
+        - `01-if.php`
+        - `02-else.php`
+        - `03-if-encadeado.php`
+        - `04-switch-case.php`
 - `Funções do PHP`:
     - `sprintf.php`
     - `rand.php`
