@@ -47,4 +47,10 @@ A ideia desse material é te ensinar a trabalhar com:
 ### Aulas
 ---
 
-A desenvolver.
+As aulas serão divididas por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
+Obs: Os conteúdos estão na ordem em que devem ser estudados.
+
+- `Básico`:
+    - `Hello World`:
+        - `01-hello-world.php`
+        - `02-echo-e-print.php`
