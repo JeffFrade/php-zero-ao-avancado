@@ -22,6 +22,7 @@ Para que você possa acompanhar o material é necessário ter noções básicas 
 - `JavaScript`
 - `SQL` (`MySQL`) (Será abordado do intermediário em diante, então não te impede de acompanhar o material no começo, porém, já procure cursos sobre o assunto e os começe (Há diversos gratuitos na internet), pois quando chegar ao intermediário já terá esse tópico resolvido).
 - `Bootstrap` (Desejável, será abordado do curso, mas de forma muito superficial, caso possua conhecimento sobre esse framework, ajudará bastante em alguns pontos do curso).
+- `Git` (Desejável).
 
 ## O Que Você Vai Aprender
 ---
