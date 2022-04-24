@@ -48,7 +48,8 @@ A ideia desse material é te ensinar a trabalhar com:
 ---
 
 Os conteúdos serão divididos por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
-Obs: Os conteúdos estão na ordem em que devem ser estudados (Exceção as `Funções do PHP` que são conteúdos extra e podem ser estudados conforme for adquirindo conhecimento).
+Obs: Os conteúdos estão na ordem em que devem ser estudados (Exceção as `Funções do PHP` que são conteúdos extra e podem ser estudados conforme for adquirindo conhecimento (Eles estão documentados na ordem que foram criados, não significa que devem ser estudados em ordem)).
+Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos mais voltados para a parte teórica para melhor compreensão do assunto (Os exemplos que possuírem materiais complementares haverá uma anotação que aponta onde será encontrado o material).
 
 - `Básico`:
     - `01-hello-world`:
@@ -57,8 +58,13 @@ Obs: Os conteúdos estão na ordem em que devem ser estudados (Exceção as `Fun
     - `02-variáveis`:
         - `01-declarando-variaveis.php`
         - `02-concatenacao.php`
+    - `03-operadores`:
+        - `01-aritmeticos.php`
+        - `02-relacionais.php`
+        - `03-logicos.php`
 - `Funções do PHP`:
     - `sprintf.php`
+    - `rand.php`
 
 ### Exercícios
 ---
