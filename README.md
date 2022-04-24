@@ -47,7 +47,7 @@ A ideia desse material é te ensinar a trabalhar com:
 ### Conteúdos
 ---
 
-Os conteúdos serão divididas por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
+Os conteúdos serão divididos por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
 Obs: Os conteúdos estão na ordem em que devem ser estudados (Exceção as `Funções do PHP` que são conteúdos extra e podem ser estudados conforme for adquirindo conhecimento).
 
 - `Básico`:
