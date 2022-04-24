@@ -9,6 +9,7 @@ Comentário de Bloco
 */
 
 // <?php = Abertura de um script PHP
+// Sempre deixar a primeira linha do script em branco (Não impede no funcionamento do programa, mas é um padrão adotado)
 
 echo "Hello World!";
 

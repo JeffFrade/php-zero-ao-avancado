@@ -44,13 +44,23 @@ A ideia desse material é te ensinar a trabalhar com:
 - <https://pt.wikihow.com/Instalar-o-XAMPP-para-Windows> - `Windows`
 - Nos demais Sistemas Operacionais, basta consultar na Internet.
 
-### Aulas
+### Conteúdos
 ---
 
-As aulas serão divididas por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
-Obs: Os conteúdos estão na ordem em que devem ser estudados.
+Os conteúdos serão divididas por módulos, sendo eles `Básico`, `Intermediário` e `Avançado`, sendo o seguinte conteúdo para cada método:
+Obs: Os conteúdos estão na ordem em que devem ser estudados (Exceção as `Funções do PHP` que são conteúdos extra e podem ser estudados conforme for adquirindo conhecimento).
 
 - `Básico`:
-    - `Hello World`:
+    - `01-hello-world`:
         - `01-hello-world.php`
         - `02-echo-e-print.php`
+    - `02-variáveis`:
+        - `01-declarando-variaveis.php`
+        - `02-concatenacao.php`
+- `Funções do PHP`:
+    - `sprintf.php`
+
+### Exercícios
+---
+
+A Desenvolver.
