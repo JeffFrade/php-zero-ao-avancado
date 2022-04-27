@@ -75,4 +75,11 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
 ### Exercícios
 ---
 
-A Desenvolver.
+Os `gabaritos` ficam na pasta de `Gabaritos`, cada lista com os seus respectivos gabaritos.
+
+- `Lista 01`
+    - `Atende o nível básico`
+        - `Tópicos 1`
+        - `Tópicos 2`
+        - `Tópicos 3`
+        - `Tópicos 4`
