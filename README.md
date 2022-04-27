@@ -68,6 +68,10 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
         - `02-else.php`
         - `03-if-encadeado.php`
         - `04-switch-case.php`
+    - `05-laços-de-repetição`:
+        - `01-for.php`
+        - `02-while.php`
+        - `03-do-while.php`
 - `Funções do PHP`:
     - `sprintf.php`
     - `rand.php`
