@@ -24,6 +24,7 @@ Para que você possa acompanhar o material é necessário ter noções básicas 
 - `Bootstrap` (Desejável, será abordado do curso, mas de forma muito superficial, caso possua conhecimento sobre esse framework, ajudará bastante em alguns pontos do curso).
 - `Git` (Desejável).
 - `RegEx` (Desejável).
+- `Docker` (Desejável), alguns exemplos do intermediário em diante serão feitos em ambientes no `Docker`, caso tenha conhecimento dessa ferramenta, pode auxiliar na hora de executar os exemplos, caso não tenha, consegue acompanhar tranquilamente o material.
 
 ## O Que Você Vai Aprender
 ---
@@ -72,6 +73,9 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
         - `01-for.php`
         - `02-while.php`
         - `03-do-while.php`
+    - `06-arrays`:
+    - `07-funções`:
+    - `08-formulários`:
 - `Funções do PHP`:
     - `sprintf.php`
     - `rand.php`
@@ -83,7 +87,14 @@ Os `gabaritos` ficam na pasta de `Gabaritos`, cada lista com os seus respectivos
 
 - `Lista 01`
     - `Atende o nível básico`
-        - `Tópicos 1`
-        - `Tópicos 2`
-        - `Tópicos 3`
-        - `Tópicos 4`
+        - `Tópico 1`
+        - `Tópico 2`
+        - `Tópico 3`
+        - `Tópico 4`
+- `Lista 02`
+    - `Atende o nível básico`
+        - `Tópico 1`
+        - `Tópico 2`
+        - `Tópico 3`
+        - `Tópico 4`
+        - `Tópico 5`
