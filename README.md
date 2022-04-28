@@ -86,6 +86,10 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
         - `03-arrays-bidimensionais.php`
         - `04-trabalhando-com-arrays.php`
     - `07-funções`:
+        - `01-criando-funcoes.php`
+        - `02-return.php`
+        - `03-parametros.php`
+        - `04-trabalhando-com-funcoes.php`
     - `08-formulários`:
 - `Funções do PHP`:
     - `sprintf.php`
