@@ -74,11 +74,23 @@ Há também uma pasta de `Materiais Complementares` que traz alguns conteúdos m
         - `02-while.php`
         - `03-do-while.php`
     - `06-arrays`:
+        - `01-criando-arrays.php`
+        - `02-arrays-associativos.php`
+        - `03-arrays-bidimensionais.php`
+        - `04-trabalhando-com-arrays.php`
     - `07-funções`:
     - `08-formulários`:
 - `Funções do PHP`:
     - `sprintf.php`
     - `rand.php`
+    - `end.php`
+    - `in_array.php`
+    - `unset.php`
+    - `print_r.php`
+    - `var_dump.php`
+    - `isset.php`
+    - `empty.php`
+    - `count.php`
 
 ### Exercícios
 ---
