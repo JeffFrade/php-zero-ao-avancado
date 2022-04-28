@@ -5,11 +5,18 @@ Esse repositório contém exemplos, exercícios (Enunciados e resolução) sobre
 
 O material ainda está sendo produzido, portanto com o passar do tempo o material será disponibilizado.
 
+### Sobre o Autor
+---
+
+Meu nome é Jefferson Frade, estudo PHP desde 2013 e atuo no mercado com essa linguagem desde 2016 quando comecei no meu primeiro estágio.
+Desde então já desenvolvi e atuei em diversos sistemas e projetos com PHP, incluindo desenvolvimento de sistemas com PHP puro.
+Sou formado pela Universidade Presbiteriana Mackenzie no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas, também curso Sistemas de Informação pela mesma instituição e também sou formado com Curso Técnico em Informática pela Escola Técnica Oswaldo Cruz.
+
 ### Dúvidas
 ---
 
 No caso de dúvidas, basta [me enviar um e-mail](mailto:`jefferrson.frade@gmail.com`) com a sua dúvida e colocar no assunto `Dúvida - PHP do Zero ao Avançado`.
-Terei o maior prazer em atender suas dúvidas e te auxiliar.
+Terei o maior prazer em atender suas dúvidas e te auxiliar na sua jornada.
 
 ### Pré-Requisitos
 ---
@@ -22,8 +29,8 @@ Para que você possa acompanhar o material é necessário ter noções básicas 
 - `JavaScript`
 - `SQL` (`MySQL`) (Será abordado do intermediário em diante, então não te impede de acompanhar o material no começo, porém, já procure cursos sobre o assunto e os começe (Há diversos gratuitos na internet), pois quando chegar ao intermediário já terá esse tópico resolvido).
 - `Bootstrap` (Desejável, será abordado do curso, mas de forma muito superficial, caso possua conhecimento sobre esse framework, ajudará bastante em alguns pontos do curso).
-- `Git` (Desejável).
-- `RegEx` (Desejável).
+- `Git` (Desejável, caso queira me enviar seus exercícios para que eu possa avaliar, pois apenas avalio exercícios postados no `GitHub` em repositório público).
+- `RegEx` (Desejável, será abordado funções para trabalhar com `RegEx`, não atrapalha em nada não saber trabalhar com `RegEx`, porém é um conhecimento que ao meu ver é interessante todo desenvolvedor ou alguém que um dia aspire ser um desenvolvedor tenha e vale ressaltar, todas as linguagens tem suporte a `RegEx`).
 - `Docker` (Desejável), alguns exemplos do intermediário em diante serão feitos em ambientes no `Docker`, caso tenha conhecimento dessa ferramenta, pode auxiliar na hora de executar os exemplos, caso não tenha, consegue acompanhar tranquilamente o material.
 
 ## O Que Você Vai Aprender
