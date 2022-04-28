@@ -110,3 +110,11 @@ Os `gabaritos` ficam na pasta de `Gabaritos`, cada lista com os seus respectivos
         - `Tópico 3`
         - `Tópico 4`
         - `Tópico 5`
+- `Lista 03`
+    - `Atende o nível básico`
+        - `Tópico 1`
+        - `Tópico 2`
+        - `Tópico 3`
+        - `Tópico 4`
+        - `Tópico 5`
+        - `Tópico 6`
